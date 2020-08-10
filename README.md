@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-  <img src="https://logodownload.org/wp-content/uploads/2017/05/githubexplorer.gif" alt="Marvel">
+  <img src="./src/assets/githubexplorer.gif" alt="GithubExplorer">
 <br>
 <br>
 </h1>
