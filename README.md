@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-  <!-- <img src="https://logodownload.org/wp-content/uploads/2017/05/marvel-logo.png" alt="Marvel" width="120"> -->
+  <img src="https://logodownload.org/wp-content/uploads/2017/05/githubexplorer.gif" alt="Marvel">
 <br>
 <br>
 </h1>
