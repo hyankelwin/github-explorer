@@ -67,6 +67,18 @@ more specific settings, I recommend this link
    $ npm install ou yarn
    ```
 
+3.5. Check if an Environment Variable Exists
+
+Default:
+
+```env
+REACT_APP_API_GITHUB_URL=https://api.github.com/
+```
+
+  ```sh
+  $ cat ./.env.local
+  ```
+
 4. Finally run:
 
    ```sh
